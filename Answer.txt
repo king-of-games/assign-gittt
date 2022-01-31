@@ -6,12 +6,16 @@
 		extensions, and any additonal files that have someone elses path in it. 
 
 -  What does fast-forward in Git mean?
-		fast-forward is basically when two branches that differ by one commit, are merged, 		and one of the branches "fast forwards" to catch up to the other branch. 
+		fast-forward is basically when two branches that differ by one commit, are merged, 		
+		and one of the branches "fast forwards" to catch up to the other branch. 
 
 
 -  Why should you have different branches?
-		Multiple branches allow us to test and commit code in a safe and isolated 		environment, so as not to affect the files within a branch that someone else is 		working. 
+		Multiple branches allow us to test and commit code in a safe and isolated 		
+		environment, so as not to affect the files within a branch that someone else is 		
+		working. 
 
 -  In a project how many remote Git repositories do you usually have?
-		Usually it is one repository, however you CAN have as many as you'd like. 		Additionally, multiple branches within  one repository are
+		Usually it is one repository, however you CAN have as many as you'd like. 		
+		Additionally, multiple branches within  one repository are
 		also an incredible tool to have. 
