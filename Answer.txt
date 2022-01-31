@@ -20,7 +20,5 @@
 		also an incredible tool to have. An example of a use for multiple remote git repos 
 		would possibly be if you wanted one repository for testing and constant uploading
 		while the other could be used for only final drafts of sprints. 
-		Usually it is one repository, however you CAN have as many as you'd like. 		
-		Additionally, multiple branches within  one repository are
-		also an incredible tool to have. 
+		 
 
